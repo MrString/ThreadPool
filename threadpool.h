@@ -28,6 +28,6 @@ private:
 	locker m_queuelocker;
 	sem m_queuestat;
 	bool m_stop;
-}
+}1
 
 #endif
