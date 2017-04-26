@@ -58,7 +58,7 @@ public:
 private:
 	pthread_mutex_t m_mutex;
 }
-
+1
 class cond
 {
 public:
