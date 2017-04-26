@@ -96,5 +96,5 @@ public:
 private:
 	pthread_mutex_t m_mutex;
 	pthread_cond_t m_cond;
-};1
+};
 #endif
